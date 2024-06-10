@@ -1,9 +1,10 @@
-## Hi there 👋
-
-<!--
-**ksb2007/ksb2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi 👋
+Meu nome é Klara Braga
+Estou estudando no alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Voce pode entrar em contato comigo
+00001096215032sp@al.educacao.sp.gov.br
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
